@@ -1,5 +1,3 @@
-<img width="1094" height="599" alt="Screenshot 2025-11-20 201218" src="https://github.com/user-attachments/assets/61b9f4f6-5f54-4329-ba93-0f1eb2d041ab" /># Cola NEXT Analytics System MySQL to Power BI
-
 This project is an end to end data analytics system for a fictional beverage brand, Cola NEXT.  
 I designed the full database in MySQL, connected it to Power BI, and built interactive dashboards for different business areas.
 
