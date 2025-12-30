@@ -73,7 +73,7 @@ This structure is suitable for analytics and reporting in Power BI.
 - Supplier distribution by city using a map visual  
 - City with most suppliers and city with fewest suppliers  
 - Total suppliers card and supplier list  
-![Uploading Screenshot 2025-11-20 201218.png…]()
+<img width="1094" height="599" alt="Screenshot 2025-11-20 201218" src="https://github.com/user-attachments/assets/6ea242a8-5704-466e-adaa-fc5ed9bd7af3" />
 
 ## Tools And Technologies
 - MySQL and MySQL Workbench  
